@@ -1,6 +1,6 @@
 # vim:filetype=yaml
 
-# ssh://git@git.mokus.io:31613/jorge.costa/test3.git
+# ssh://git@git.mokus.io:31613/assembly/mokus-gitlab-ci-runner-marathon.git
 
 before_script:
   - apt-get update
